@@ -1,1 +1,2 @@
-# python_lecture_notes
+# Python Vorlesungsnotizen
+1) 4 Februar
